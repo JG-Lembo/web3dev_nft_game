@@ -1,3 +1,6 @@
 [submodule "web3dev_nft_game_backend"]
 	path = backend
 	url = https://github.com/JG-Lembo/web3dev_nft_game_backend.git
+[submodule "web3dev_nft_game_frontend"]
+	path = frontend
+	url = https://github.com/JG-Lembo/web3dev_nft_game_frontend.git
